@@ -13,7 +13,7 @@
 
 ## t-ichikawa
 
-- ここに変更を加えてください
+- テスト
 
 ## yuki-nishikawa
 
