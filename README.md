@@ -9,7 +9,7 @@
 
 ## ken-watada
 
-- ここに変更を加えてください
+- こんにちは
 
 ## t-ichikawa
 
